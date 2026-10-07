@@ -47,8 +47,30 @@ Tab "Lead bị loại": 2 case đã xem xét và loại (Meiko Electronics – E
 
 Không có email nào cần verify do không có lead đạt điều kiện.
 
+## 9. Mở rộng tiêu chí địa điểm: chi nhánh/nhà máy (không chỉ HQ) (2026-10-07, cùng ngày)
+
+Theo yêu cầu mở rộng, đã rà lại toàn bộ khu công nghiệp/cụm công nghiệp đang hoạt động hoặc mới cấp phép tại 6 tỉnh để tìm **chi nhánh/nhà máy** (không bắt buộc HQ) của công ty thuộc ICP. Không dùng thêm Lusha credit cho vòng này (chỉ web search); Lusha không có trường "địa điểm chi nhánh" riêng nên không thể lọc theo tiêu chí này trên Lusha.
+
+| KCN/Cụm CN | Tỉnh | Doanh nghiệp điện tử đã xác định | Sản phẩm thực tế | Kết luận |
+|---|---|---|---|---|
+| Bờ trái sông Đà | Hòa Bình | Meiko Electronics (giai đoạn 1) | PCB (bảng mạch in) gia công theo đơn hàng | ❌ EMS, không tự thiết kế thiết bị camera/AI |
+| Yên Quang | Hòa Bình | Meiko Electronics (giai đoạn 2, khởi công 12/6/2026) | Nhà máy "chế tạo vi mạch điện tử bán dẫn" – Meiko là **bên sản xuất chip/linh kiện**, không phải bên mua chip | ❌ Nhà cung cấp chip, không phải khách hàng mua chip |
+| Lương Sơn | Hòa Bình | Dongah Elecomm Vietnam (Hàn Quốc) | Nguồn điện, bộ chỉnh lưu (rectifier) cho viễn thông | ❌ Không liên quan camera |
+| Lương Sơn | Hòa Bình | Almine Vietnam (Nhật Bản) | Dây/thanh/tấm nhôm cho ô tô, gia dụng, cáp điện | ❌ Không liên quan camera |
+| Lương Sơn | Hòa Bình | Nissin Manufacturing Vietnam (Nhật Bản) | Linh kiện cơ khí xe máy (Honda/Yamaha) | ❌ Không liên quan camera |
+| Yên Quang | Hòa Bình | Mascom Global JSC | Hóa chất, thuốc nhuộm, sơn, nhựa | ❌ Sai ngành (Lusha gắn nhãn "Manufacturing" chung, không phải điện tử) |
+| Bản Qua, Bát Xát | Lào Cai | Nexus Technologies and Cable (Hàn Quốc) | Dây & cáp điện cao cấp | ❌ Không liên quan camera |
+| Trấn Yên | Yên Bái | Viglacera (chủ đầu tư hạ tầng KCN, cấp phép 11/2024) | KCN mới, định hướng thu hút cơ khí/điện tử nhưng **chưa có nhà đầu tư thứ cấp nào được công bố** | ❌ Chưa có doanh nghiệp vận hành – theo dõi tiếp |
+| Mai Sơn | Sơn La | — | Chủ yếu chế biến nông sản (sắn, tinh bột) | ❌ Không có doanh nghiệp điện tử |
+| Hòa Lạc, Hà Nội (tham chiếu) | — | Sunhouse – Nhà máy Robot tự hành & Thiết bị AI (~2.000 tỷ đồng) | Robot tự hành, module điện tử, thiết bị AI | Không thuộc 6 tỉnh mục tiêu (ở Hà Nội) – ghi nhận để đối chiếu, không tính vào batch này |
+
+**Kết luận mở rộng:** Ngay cả khi tính cả chi nhánh/nhà máy (không chỉ HQ), **vẫn không có doanh nghiệp nào trong 6 tỉnh Tây Bắc tự thiết kế/bán thiết bị có camera cần chip AI**. Cụm điện tử duy nhất đáng kể (Lương Sơn + Bờ trái sông Đà/Yên Quang, Hòa Bình) gồm toàn các nhà máy EMS/linh kiện cơ bản (PCB, nguồn điện, nhôm, cơ khí xe máy, hóa chất) gia công cho khách nước ngoài – không phải người mua chip AI để tích hợp vào sản phẩm cuối. KCN Trấn Yên (Yên Bái) là điểm cần theo dõi vì mới cấp phép và có định hướng thu hút ngành điện tử, nhưng chưa có nhà đầu tư thứ cấp.
+
+Đã bổ sung các case trên vào tab "Lead bị loại" của sheet.
+
 ## Gợi ý tiếp theo
 
-- Nếu chấp nhận nới tiêu chí sang cả **chi nhánh/nhà máy** (không chỉ HQ) của các tập đoàn điện tử lớn, Meiko Electronics (Hòa Bình) có thể đáng xem xét lại, nhưng quyết định chọn chip nằm ở khách hàng/HQ Nhật Bản nên mức độ phù hợp thấp.
+- Theo dõi KCN Trấn Yên (Yên Bái, do Viglacera làm hạ tầng) khi có nhà đầu tư thứ cấp ngành điện tử/cơ khí được công bố.
 - Theo dõi quy hoạch KCN mới tại Lào Cai (Bát Xát, Bản Qua) – hiện mới có dự án dây cáp điện, chưa có camera/AI.
+- Nếu muốn nới ICP để chấp nhận cả EMS/nhà cung cấp linh kiện (không chỉ người mua chip để tích hợp), Meiko Electronics (Hòa Bình) là ứng viên lớn nhất về quy mô vốn – nhưng cần thống nhất lại tiêu chí ICP với người yêu cầu trước khi thêm vào sheet Leads.
 - Việt Nam đang trong quá trình sáp nhập địa giới hành chính tỉnh (2025); nên xác nhận lại tên/ranh giới 6 tỉnh này trước khi chạy lại batch trong tương lai, vì dữ liệu Lusha vẫn dùng tên tỉnh cũ.
