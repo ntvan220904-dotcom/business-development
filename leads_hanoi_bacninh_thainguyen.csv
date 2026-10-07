@@ -1,20 +1,20 @@
-STT,Account (Công ty) *,Tỉnh,Ngành,Nguồn,Lead PIC,Bậc,Tên pháp nhân,Mã số thuế,Địa chỉ,Người liên hệ *,Họ,Chức danh,Điện thoại,Email *,Ghi chú kiểm tra
-1,VinDynamics,Hà Nội,Sản xuất robot hình người (AI + camera),Lusha + Web,,A,"CÔNG TY CỔ PHẦN NGHIÊN CỨU, PHÁT TRIỂN VÀ ỨNG DỤNG ROBOT HÌNH NGƯỜI VINDYNAMICS",0111223900,"Tòa nhà Symphony, KĐT Vinhomes Riverside, P. Phúc Lợi, Hà Nội",Nguyễn Mai Hoa,Nguyễn,Người đại diện pháp luật,,,"Robot Dyno ra mắt ICRA 2026; web không công bố email (form placeholder)"
-,,,,,,,,,,Vinh Nguyen,Nguyen,Chief Technology Officer,,,
-,,,,,,,,,,Minh Le,Le,Director of Hardware,,,Vai trò quyết định chọn chip
-,,,,,,,,,,Jim La,La,Chairman,,,
-,,,,,,,,,,Son Tran,Tran,Director of AI Robotics,,,
-,,,,,,,,,,Dat Quoc,Quoc,Director of Robotic Solutions,,,
-,,,,,,,,,,Khoa Do Xuan,Do Xuan,Director of Business Development,,,
-,,,,,,,,,,Chi Ho,Ho,Executive Assistant to the President,,,Trợ lý - kênh tiếp cận
-2,VinMotion,Hà Nội,Sản xuất robot hình người (AI + camera),Lusha + Web,,A,CÔNG TY CỔ PHẦN NGHIÊN CỨU PHÁT TRIỂN VÀ ỨNG DỤNG NGƯỜI MÁY ĐA NĂNG VINMOTION,0110936722,"Tòa Văn phòng Symphony, đường Chu Huy Mân, KĐT Vinhomes Riverside, P. Phúc Lợi, Hà Nội",Nguyễn Mai Hoa,Nguyễn,Người đại diện pháp luật,,hr@vinmotion.net,"Robot nhận diện khuôn mặt/giọng nói; email duy nhất công bố là HR"
-,,,,,,,,,,Quan Nguyen,Nguyen,Chairman and Chief Scientific Officer,,,Lusha khóa email (compliance)
-,,,,,,,,,,Truong Nguyen,Nguyen,Director,,,
-3,VinAI,Hà Nội,"AI, hệ thống camera giám sát tài xế (DMS/ASVM)",Lusha + Web,,A,CÔNG TY CỔ PHẦN NGHIÊN CỨU VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO VINAI,0109727523,"Tòa Văn phòng Symphony, đường Chu Huy Mân, KĐT Vinhomes Riverside, Q. Long Biên, Hà Nội",Vuong Thanh,Thanh,Chief Executive Officer,,business@vinai.io,DMS dùng camera hồng ngoại + AI on-device
-,,,,,,,,,,Hang Do,Do,Assistant to Chief Executive Officer,,business@vinai.io,Trợ lý CEO
-4,Rạng Đông,Hà Nội,"Thiết bị chiếu sáng, smart home AIoT (Camera Ralli AI, AI Box)",Lusha + Web,,A,CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG,0101526991,"Số 87-89 Phố Hạ Đình, P. Khương Đình, Hà Nội",Nguyễn Đoàn Thăng,Nguyễn,Tổng Giám đốc,024 3858 4310,ralaco@rangdong.com.vn,Tự sản xuất Camera Ralli AI và AI Box
-,,,,,,,,,,Nguyễn Đoàn Kết,Nguyễn,Phó Chủ tịch HĐQT / Phó Tổng Giám đốc,024 3858 4310,ralaco@rangdong.com.vn,
-5,Autotech Machinery,Bắc Ninh,Chế tạo máy tự động hóa có kiểm tra bằng machine vision,Lusha + Web,,B,CÔNG TY CỔ PHẦN CHẾ TẠO MÁY AUTOTECH VIỆT NAM,0106356736,"Số 11 và 15, Đường 17, KCN VSIP Bắc Ninh, Xã Đại Đồng, Bắc Ninh",Phạm Thị Hương,Phạm,Người đại diện pháp luật,+84 222 361 6886,info@auto-tech.vn,Máy kiểm tra/phân loại cho ngành điện tử
-,,,,,,,,,,Seungryong Kim,Kim,Marketing Director,,info@auto-tech.vn,
-6,TOSY Robotics,Hà Nội,Sản xuất robot và đồ chơi công nghệ cao,Lusha + Web,,C,CÔNG TY CỔ PHẦN ROBOT TOSY,0101537802,"Số 23 đường Lê Văn Lương, tòa nhà Starcity, P. Thanh Xuân, Hà Nội",Hồ Vĩnh Hoàng,Hồ,"Chief Executive Officer / Người đại diện",02463262999,info@tosy.com,"Thuế 'đang hoạt động' nhưng web đóng băng từ ~2013; email lấy từ trang cũ, độ tin cậy thấp"
-,,,,,,,,,,Luong Ngoc,Ngoc,Secretary to the Director,,,
+STT,Account (Công ty) *,Tỉnh,Ngành,Nguồn,Lead PIC,Bậc,Tên pháp nhân,Mã số thuế,Địa chỉ,Người liên hệ *,Họ,Chức danh,Điện thoại,Email *,Trạng thái email,Ghi chú kiểm tra
+1,VinDynamics,Hà Nội,Sản xuất robot hình người (AI + camera),Lusha + Web,,A,"CÔNG TY CỔ PHẦN NGHIÊN CỨU, PHÁT TRIỂN VÀ ỨNG DỤNG ROBOT HÌNH NGƯỜI VINDYNAMICS",0111223900,"Tòa nhà Symphony, KĐT Vinhomes Riverside, P. Phúc Lợi, Hà Nội",Nguyễn Mai Hoa,Nguyễn,Người đại diện pháp luật,,,Không có,"Robot Dyno ra mắt ICRA 2026. Web chỉ có form placeholder; domain catch-all nên không xác minh được alias nào"
+,,,,,,,,,,Vinh Nguyen,Nguyen,Chief Technology Officer,,,Không có,
+,,,,,,,,,,Minh Le,Le,Director of Hardware,,,Không có,Vai trò quyết định chọn chip
+,,,,,,,,,,Jim La,La,Chairman,,,Không có,
+,,,,,,,,,,Son Tran,Tran,Director of AI Robotics,,,Không có,
+,,,,,,,,,,Dat Quoc,Quoc,Director of Robotic Solutions,,,Không có,
+,,,,,,,,,,Khoa Do Xuan,Do Xuan,Director of Business Development,,,Không có,
+,,,,,,,,,,Chi Ho,Ho,Executive Assistant to the President,,,Không có,Trợ lý - kênh tiếp cận
+2,VinMotion,Hà Nội,Sản xuất robot hình người (AI + camera),Lusha + Web,,A,CÔNG TY CỔ PHẦN NGHIÊN CỨU PHÁT TRIỂN VÀ ỨNG DỤNG NGƯỜI MÁY ĐA NĂNG VINMOTION,0110936722,"Tòa Văn phòng Symphony, đường Chu Huy Mân, KĐT Vinhomes Riverside, P. Phúc Lợi, Hà Nội",Nguyễn Mai Hoa,Nguyễn,Người đại diện pháp luật,,hr@vinmotion.net,Valid,"Robot nhận diện khuôn mặt/giọng nói. Email HR - hộp thư sống, nhưng không phải kênh sales"
+,,,,,,,,,,Quan Nguyen,Nguyen,Chairman and Chief Scientific Officer,,,Không có,Lusha khóa email (compliance)
+,,,,,,,,,,Truong Nguyen,Nguyen,Director,,,Không có,
+3,VinAI,Hà Nội,"AI, hệ thống camera giám sát tài xế (DMS/ASVM)",Lusha + Web,,A,CÔNG TY CỔ PHẦN NGHIÊN CỨU VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO VINAI,0109727523,"Tòa Văn phòng Symphony, đường Chu Huy Mân, KĐT Vinhomes Riverside, Q. Long Biên, Hà Nội",Vuong Thanh,Thanh,Chief Executive Officer,,business@vinai.io,Catch-all,"DMS dùng camera hồng ngoại + AI on-device. Email duy nhất công bố trên toàn site; domain catch-all nên có rủi ro bounce"
+,,,,,,,,,,Hang Do,Do,Assistant to Chief Executive Officer,,business@vinai.io,Catch-all,Trợ lý CEO
+4,Rạng Đông,Hà Nội,"Thiết bị chiếu sáng, smart home AIoT (Camera Ralli AI, AI Box)",Lusha + Web,,A,CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG,0101526991,"Số 87-89 Phố Hạ Đình, P. Khương Đình, Hà Nội",Nguyễn Đoàn Thăng,Nguyễn,Tổng Giám đốc,024 3858 4310,ralaco@rangdong.com.vn,Valid,Tự sản xuất Camera Ralli AI và AI Box
+,,,,,,,,,,Nguyễn Đoàn Kết,Nguyễn,Phó Chủ tịch HĐQT / Phó Tổng Giám đốc,024 3858 4310,ralaco@rangdong.com.vn,Valid,
+5,Autotech Machinery,Bắc Ninh,Chế tạo máy tự động hóa có kiểm tra bằng machine vision,Lusha + Web,,B,CÔNG TY CỔ PHẦN CHẾ TẠO MÁY AUTOTECH VIỆT NAM,0106356736,"Số 11 và 15, Đường 17, KCN VSIP Bắc Ninh, Xã Đại Đồng, Bắc Ninh",Phạm Thị Hương,Phạm,Người đại diện pháp luật,+84 222 361 6886,info@auto-tech.vn,Valid,Máy kiểm tra/phân loại cho ngành điện tử
+,,,,,,,,,,Seungryong Kim,Kim,Marketing Director,,info@auto-tech.vn,Valid,
+6,TOSY Robotics,Hà Nội,Sản xuất robot và đồ chơi công nghệ cao,Lusha + Web,,C,CÔNG TY CỔ PHẦN ROBOT TOSY,0101537802,"Số 23 đường Lê Văn Lương, tòa nhà Starcity, P. Thanh Xuân, Hà Nội",Hồ Vĩnh Hoàng,Hồ,"Chief Executive Officer / Người đại diện",02463262999,info@tosy.com,Valid,"Thuế 'đang hoạt động' và hộp thư còn sống, nhưng web đóng băng từ ~2013 - cần kiểm tra DN còn làm sản phẩm không"
+,,,,,,,,,,Luong Ngoc,Ngoc,Secretary to the Director,,,Không có,
